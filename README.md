@@ -1,7 +1,7 @@
 # Deep MRS Quantification
 This repository provides the implementation of DeepMRS from the following paper:
 
-Model-Constrained Deep Learning Approach to the Quantification of Magnetic Resonance Spectroscopy Data Based on Linear Combination Model Fitting: [Link to biorxiv](https://www.biorxiv.org/content/10.1101/2022.10.13.512064v1)
+Physics-informed Deep Learning Approach to Quantification of Human Brain Metabolites from Magnetic Resonance Spectroscopy Data: [Link to biorxiv](https://www.biorxiv.org/content/10.1101/2022.10.13.512064v1)
 
 ## How does it work?
 - DeepMRS was implemented in Python with the help of the Pytorch lightning interface. 
