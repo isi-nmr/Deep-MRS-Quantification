@@ -42,3 +42,6 @@ If you use this codebase, or otherwise found our work valuable, please cite:
   }
 
 ```
+
+The software was developed by Amir Shamaei.
+Copyright (c) 2022 Ústav přístrojové techniky AV ČR, v. v. i
